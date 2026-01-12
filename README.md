@@ -89,13 +89,6 @@ Por conter informações específicas do ambiente do usuário, esse arquivo **n�
 ## Estrutura do Projeto
 
 ```
-.
-├── main.py            # Arquivo principal que inicia o programa
-├── readpdf.py         # Responsável pela leitura e extração de dados dos PDFs
-├── foldermanager.py   # Criação e gerenciamento das pastas por CPF/CNPJ
-├── dir.example.txt    # Arquivo de exemplo para configuração do diretório dos clientes
-├── README.md
-```
 
 .
 ├── main.py            # Arquivo principal que inicia o programa
